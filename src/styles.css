@@ -1,12 +1,30 @@
 body {
-    background-color: palegoldenrod;
+    background-color: #cffdbc;
 }
 
 h1 {
     text-align: center;
-    color: white;
+    color: black;
+}
+
+p {
+    text-align: center;
 }
 
 a {
-    color: white;
+    color: darkgreen;
+}
+
+.nav-links {
+    text-align: center;
+    margin-top: 20px;
+    word-spacing: 20px;
+}
+
+.lime-image {
+    display: block;
+    margin: 0 auto;
+    width: 800px;
+    height: 500px;
+    border-radius: 10px;
 }
